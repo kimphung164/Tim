@@ -178,10 +178,11 @@
 <script>
   // Tạo nhiều dòng chữ với các tin nhắn khác nhau
   const messages = [
-    'Em thích anh nhiều lắm♡',
-    'Anh có muốn mình thành một đôi không?♡',
-    'Anh làm bạn trai em nhé?♡',
-    'Em có thể yêu anh không?♡'
+    'Em thích anh ♡',
+    'Anh có muốn yêu em không?♡',
+    'Đồng hành cùng em nhé Nguyen Van Tri?♡',
+    'Yêu anh?♡'
+  
   ];
 
   const container = document.querySelector('.container');
